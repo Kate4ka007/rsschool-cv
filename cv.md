@@ -39,3 +39,21 @@ return "Obese";
 ```
 
 ---
+# Courses
+* JS/FE PRE-SCHOOL 2022 JavaScript (RSSchool)
+* JavaScript Algorithms and Data Structures (freeCodeCamp)
+* JavaScript course (Sololearn)
+* HTML, CSS, JavaScript Tutorials on the w3schools 
+
+
+---
+# Education
+* VITEBSK STATE ORDER OF PEOPLES’ FRIENDSHIP MEDICAL UNIVERSITY
+
+---
+# Languages
+* Russian - native spiker
+* English A2 
+* German elementary
+
+---
